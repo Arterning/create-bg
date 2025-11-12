@@ -1,0 +1,13 @@
+src/
+node_modules/
+.vscode/
+.idea/
+*.log
+.DS_Store
+tsconfig.json
+.git/
+.github/
+examples/
+tests/
+*.test.ts
+*.spec.ts
