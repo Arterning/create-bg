@@ -17,8 +17,7 @@ export const templateCategories: TemplateCategory[] = [
         name: 'react-vite',
         displayName: 'React + Vite',
         description: 'React 18 + Vite + TypeScript + TailwindCSS',
-        repository: 'https://github.com/Arterning/next-template',
-        branch: 'main'
+        repository: 'https://github.com/Arterning/next-template'
       },
       {
         name: 'vue-vite',
